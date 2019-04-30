@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556639051625.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3785487871",
+    "id" : "44DEC789",
+    "lastKnownWriteTime" : 1556639075,
+    "last_content_update" : 1556639075576,
+    "path" : "~/Desktop/R-Test/lokal/Lokal/Lokal#1.R",
+    "project_path" : "Lokal#1.R",
+    "properties" : {
+        "cursorPosition" : "0,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
